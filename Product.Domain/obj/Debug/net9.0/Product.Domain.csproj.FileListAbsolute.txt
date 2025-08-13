@@ -1,0 +1,11 @@
+C:\Repo\Ecommerce\Product.Domain\bin\Debug\net9.0\Product.Domain.deps.json
+C:\Repo\Ecommerce\Product.Domain\bin\Debug\net9.0\Product.Domain.dll
+C:\Repo\Ecommerce\Product.Domain\bin\Debug\net9.0\Product.Domain.pdb
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\Product.Domain.AssemblyInfoInputs.cache
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\Product.Domain.AssemblyInfo.cs
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\Product.Domain.csproj.CoreCompileInputs.cache
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\Product.Domain.dll
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\refint\Product.Domain.dll
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\Product.Domain.pdb
+C:\Repo\Ecommerce\Product.Domain\obj\Debug\net9.0\ref\Product.Domain.dll
